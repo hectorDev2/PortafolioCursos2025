@@ -1,5 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
+# PortafolioCursos2025
 # Portafolio de Cursos – Proyecto Semestral 2025-1
 
 Sistema de gestión de portafolios de cursos para la Escuela Profesional de Ingeniería Informática y de Sistemas.
