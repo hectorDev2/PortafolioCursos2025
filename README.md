@@ -212,8 +212,8 @@ npm run dev
 ## Metodología de Trabajo
 
 - **SCRUM**: Organización en sprints y entregas incrementales.
-- **Product Owner:** Define y prioriza funcionalidades.
-- **Scrum Master:** Facilita el proceso y elimina impedimentos.
+- **Product Owner:** Define y prioriza funcionalidades. --> DOCENTE A CARGO
+- **Scrum Master:** Facilita el proceso y elimina impedimentos. --> HECTOR PAOLO BARAZORDA CUELLAR
 - **Development Team:** Diseña, desarrolla y prueba el sistema[^1].
 
 ---
@@ -235,7 +235,7 @@ Proyecto académico para la asignatura de Metodologías de Desarrollo de Softwar
 
 ---
 
-> Desarrollado por estudiantes de la Escuela Profesional de Ingeniería Informática y de Sistemas. Docentes responsables: Waldo Elio Ibarra Zambrano, Carlos Ramón Quispe Onofre[^1].
+> Desarrollado por estudiantes de la Escuela Profesional de Ingeniería Informática y de Sistemas. Docentes responsables: Waldo Elio Ibarra Zambrano.
 
 ---
 
